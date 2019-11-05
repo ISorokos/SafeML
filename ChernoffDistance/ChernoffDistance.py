@@ -3,7 +3,7 @@ import numpy.linalg
 
 def chernoff_distance(s, means, variances, univariate = False):
     """ Returns the Chernoff Distance, as defined in (3.150), p.98 of 
-        Fukunaga, 1999, Introduction to Statistical Pattern Recognition, 2nd Edition
+        Fukunaga, 1990, Introduction to Statistical Pattern Recognition, 2nd Edition
     """
 
     from math import log
