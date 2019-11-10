@@ -24,7 +24,8 @@ def chernoff_distance(s, means, variances, univariate = False):
     var_avg = (array(variances[0]) + array(variances[1])) * 0.5
     ln_coeff = 0.5 * log(det(var_avg) / sqrt(det(array(variances[0])) * det(array(variances[1]))))
 
-    return 0.125 * transpose(mean_diff) * inv(var_avg) * mean_diff + ln_coeff
+    #return 0.125 * transpose(mean_diff) * inv(var_avg) * mean_diff + ln_coeff
+     return 0.125 * np.matmul(np.matmul(mean_diff.T,var_avg), mean_diff) + ln_coeff 
     
 
 if __name__ == '__main__':
