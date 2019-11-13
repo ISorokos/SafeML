@@ -14,6 +14,7 @@ from numpy import transpose
 from numpy import array
 from numpy.linalg import inv
 
+# Only One class has been considered
 df = pd.read_csv('C:/Users/582725/Downloads/S3_1E5_type2.csv', sep = ',')
 df.head()
 df = df.fillna(0)
