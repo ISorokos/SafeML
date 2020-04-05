@@ -1,7 +1,7 @@
 ## 2D XOR Dataset
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_R/Examples/2D_XOR_Dataset/PlotsfeaturePlot_xor.jpg" alt="XOR_scaterplot">
- <figcaption>Figure 1. XOR Dataset: scater plot of the features</figcaption>
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_R/Examples/2D_XOR_Dataset/PlotsfeaturePlot_xor.jpg" alt="XOR_scatterplot">
+ <figcaption>Figure 1. XOR Dataset: scatter plot of the features</figcaption>
 </p>
 
 <p align="center">
