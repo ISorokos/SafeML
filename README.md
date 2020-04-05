@@ -22,7 +22,7 @@ The following figure illustrates the flowchart of the proposed approach. In this
 
 * Hypothetical Example
 * Security Dataset
-* Tensorflow Playground Datasets
+* Tensorflow Playground Datasets (<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_XOR_Dataset">XOR</a>)
 
 ## Publication
 
