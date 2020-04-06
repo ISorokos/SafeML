@@ -1,7 +1,7 @@
 ## 2D Spiral Dataset
 
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_R/Examples/2D_Spiral_Dataset/featurePlot_spiral.png.jpg" alt="XOR_scatterplot">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_R/Examples/2D_Spiral_Dataset/featurePlot_spiral.png" alt="XOR_scatterplot">
  <figcaption>Figure 1. Spiral Dataset: scatter plot of the features</figcaption>
 </p>
 
