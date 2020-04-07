@@ -4,3 +4,5 @@ Simple example:
 Y = normrnd(1,1.1,[100,1]);
 WS_Dist = Wasserstein_Dist(X,Y)
 </pre>
+
+<pre> </pre>
