@@ -8,7 +8,7 @@ function WS_Dist = Wasserstein_Dist(X,Y)
   
   XY = [X;Y];
   X2 = [(1/nx).*ones(nx,1);zeros(ny,1)];
-  Y2 = [zeros(nx,1),(1/ny).*ones(ny,1)];
+  Y2 = [zeros(nx,1);(1/ny).*ones(ny,1)];
   
   [SortedXY ,I] = sort(XY);
   X2_Sorted = X2(I);
