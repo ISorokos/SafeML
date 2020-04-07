@@ -1,8 +1,9 @@
 ## Wasserstein Distance
-Simple example:
-<pre> X = normrnd(1,1,[100,1]);
+Simple example for Wasserstein distance measure function in MATLAB:
+<pre>X = normrnd(1,1,[100,1]);
 Y = normrnd(1,1.1,[100,1]);
-WS_Dist = Wasserstein_Dist(X,Y)
-</pre>
+WS_Dist = Wasserstein_Dist(X,Y)</pre>
 
-<pre> </pre>
+<pre>X = normrnd(1,1,[100,1]);
+Y = normrnd(1,1.1,[100,1]);
+AD_Dist = Anderson_Darling_Dist(X,Y)</pre>
