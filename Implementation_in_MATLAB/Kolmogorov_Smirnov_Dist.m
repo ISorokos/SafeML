@@ -1,6 +1,6 @@
 function KS_Dist = Kolmogorov_Smirnov_Dist(XX,YY)
-% X = normrnd(1,1,[100,1]);
-% Y = normrnd(1,1.1,[100,1]);
+% XX = normrnd(1,1,[100,1]);
+% YY = normrnd(1,1.1,[100,1]);
     YY(~any(~isnan(YY), 2),:)=[];
     XX(~any(~isnan(XX), 2),:)=[];
     for jj = 1:size(XX,2)
@@ -22,16 +22,21 @@ function KS_Dist = Kolmogorov_Smirnov_Dist(XX,YY)
           E_CDF = 0;
           F_CDF = 0;
           power = 1;
+          height = 0;
 
           for ii = 1:n-1
               E_CDF = E_CDF + X2_Sorted(ii);
               F_CDF = F_CDF + Y2_Sorted(ii);
-              height = abs(F_CDF-E_CDF);
-              width = SortedXY(ii+1) - SortedXY(ii);
-              Res = Res + (height ^ power) * width;  
+              
+              if SortedXY(ii+1) ~= SortedXY(ii)
+                  height = abs(F_CDF-E_CDF);
+              end
+              if height > Res
+                  Res = height;
+              end 
           end
 
-          KS_Dist_temp(jj) = Res;  
+          KS_Dist_temp(jj) = Res; 
     end
     KS_Dist = max(KS_Dist_temp);
 end
