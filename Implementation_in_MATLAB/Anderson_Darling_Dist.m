@@ -27,8 +27,8 @@ function AD_Dist = Anderson_Darling_Dist(XX,YY)
           for ii = 1:n-1
               E_CDF = E_CDF + X2_Sorted(ii);
               F_CDF = F_CDF + Y2_Sorted(ii);
-              G_CDF = G_CDF + 1/n;
-              sd = (n*G_CDF*(1-G_CDF))^0.5;
+              G_CDF = G_CDF + (1/n);
+              sd = (n*G_CDF*abs(1-G_CDF))^0.5;
               height = abs(F_CDF-E_CDF);
               if SortedXY(ii) ~= SortedXY(ii+1)
                   if sd > 0
