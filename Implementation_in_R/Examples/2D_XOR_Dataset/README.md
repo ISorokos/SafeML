@@ -8,5 +8,3 @@
  <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_R/Examples/2D_XOR_Dataset/density_Plot_XOR.png" alt="XOR_pdfs">
  <figcaption>Figure 2. XOR Dataset: prbability density functions of the features</figcaption>
 </p>
-
-
