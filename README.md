@@ -20,7 +20,6 @@ The following figure illustrates the flowchart of the proposed approach. In this
 
 ## Examples
 
-* Hypothetical Example
 * Security Dataset: In <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>, A Intrusion Detection Evaluation Dataset (<a href="https://www.unb.ca/cic/datasets/ids-2017.html">CICIDS2017</a>) has been used. 
 * Tensorflow Playground Datasets (<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_XOR_Dataset">XOR</a>, <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Spiral_Dataset">Spiral</a>)
 
