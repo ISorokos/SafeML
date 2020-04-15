@@ -1,3 +1,11 @@
+
+<p align="center">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Figures/CDF_Distance_Measures.png" alt="CDF_Distance_Measures">
+ <figcaption>Figure 1. Some of the Well-known Cumulative Distribution Function (CDF)-based Distance Measures</figcaption>
+</p>
+
+# Implemented Functions
+
 ## Wasserstein Distance
 Simple example for Wasserstein distance measure function in MATLAB:
 
