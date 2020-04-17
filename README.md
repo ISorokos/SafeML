@@ -8,6 +8,8 @@
   
 # SafeML
 Exploring techniques for estimating safety of machine learning classifiers.
+## Abstract
+<p align="justify">Nowadays the application of advanced machine learning or deep learning in various industries is growing rapidly. In parallel with this massive growth, the concern about the safety and explainability of these algorithms are also high. This project is proposing a solution to do a safety verification using statistical difference measure algorithms. A number of hypothetical and real examples are provided to clarify the limitations and capabilities of the proposed method.</p>
 
 ## Description
 <p align="justify">
