@@ -29,26 +29,5 @@ The following figure illustrates the flowchart of the proposed approach. In this
 
 ## References
 <p align="justify">
-Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). Concrete Problems in AI Safety. http://arxiv.org/abs/1606.06565
-Aslansefat, K., Bahar Gogani, M., Kabir, S., Shoorehdeli, M. A., & Yari, M. (2019). Performance evaluation and design for variable threshold alarm systems through semi-Markov process. ISA Transactions. https://doi.org/10.1016/j.isatra.2019.08.015
-Bellemare, M. G., Danihelka, I., Dabney, W., Mohamed, S., Lakshminarayanan, B., Hoyer, S., & Munos, R. (2017). The Cramer Distance as a Solution to Biased Wasserstein Gradients. http://arxiv.org/abs/1705.10743
-Burton, S., Habli, I., Lawton, T., McDermid, J., Morgan, P., & Porter, Z. (2020). Mind the gaps: Assuring the safety of autonomous systems from an engineering, ethical, and legal perspective. Artificial Intelligence, 279, 103201. https://doi.org/10.1016/j.artint.2019.103201
-Davenport, T. H., Brynjolfsson, E., McAfee, A., James, H., & Wilson, R. (2019). Artificial Intelligence: The Insights You Need from Harvard Business Review. Harvard Business Review.
-Du‐Harpur, X., Watt, F. M., Luscombe, N. M., & Lynch, M. D. (2020). What is AI? Applications of artificial intelligence to dermatology. British Journal of Dermatology, bjd.18880. https://doi.org/10.1111/bjd.18880
-Evans, J. (2020). Artificial Intelligence and Public Standards: A Review by the Committee on Standards in Public Life.
-Fukunaga, K. (1992). Introduction to Statistical Pattern Recognition (Second Edition). Academic Press.
-Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). Generative Adversarial Nets. http://www.github.com/goodfeli/adversarial
-Gulrajani, I., Ahmed, F., Arjovsky, M., Dumoulin, V., & Courville, A. (2017). Improved Training of Wasserstein GANs Montreal Institute for Learning Algorithms. https://github.com/igul222/improved
-Hadjeres, G., & Nielsen, F. (2020). Schoenberg-Rao distances: Entropy-based and geometry-aware statistical Hilbert distances. http://arxiv.org/abs/2002.08345
-ISO/IEC JTC 1/SC 42: Artificial intelligence. (2020).
-Laurens van der Maaten. (2014). Accelerating t-SNE using Tree-Based Algorithms. Journal of Machine Learning Research, 15, 3221–3245. https://doi.org/10.1007/978-1-60761-580-4_8
-Nielsen, F. (2014). Generalized Bhattacharyya and Chernoff upper bounds on Bayes error using quasi-arithmetic means. Pattern Recognition Letters, 42(1), 25–34. https://doi.org/10.1016/j.patrec.2014.01.002
-Nielsen, F. (2018). The Chord Gap Divergence and a Generalization of the Bhattacharyya Distance. ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings, 2018-April, 2276–2280. https://doi.org/10.1109/ICASSP.2018.8462244
-Quiñonero-Candela, J., & Schwaighofer, A. (2009). Dataset Shift in Machine Learning. MIT Press.
-Schulam, P., & Saria, S. (2019). Can You Trust This Prediction? Auditing Pointwise Reliability After Learning. http://arxiv.org/abs/1901.00403
-Sharkey, A. (2019). Autonomous weapons systems, killer robots and human dignity. Ethics and Information Technology, 21(2), 75–87. https://doi.org/10.1007/s10676-018-9494-0
-Su, J., Vargas, D. V., & Sakurai, K. (2019). One Pixel Attack for Fooling Deep Neural Networks. IEEE Transactions on Evolutionary Computation, 23(5), 828–841. https://doi.org/10.1109/TEVC.2019.2890858
-Theodoridis, S., & Koutroumbas, K. (2009). Pattern Recognition. In Pattern Recognition. Elsevier Inc. https://doi.org/10.1016/B978-1-59749-272-0.X0001-2
-Wiens, J., Saria, S., Sendak, M., Ghassemi, M., Liu, V. X., Doshi-Velez, F., Jung, K., Heller, K., Kale, D., Saeed, M., Ossorio, P. N., Thadaney-Israni, S., & Goldenberg, A. (2019). Do no harm: a roadmap for responsible machine learning for health care. Nature Medicine, 25(9), 1337–1340. https://doi.org/10.1038/s41591-019-0548-6
-Zahm, O., Cui, T., Law, K., Spantini, A., & Marzouk, Y. (2018). Certified dimension reduction in nonlinear Bayesian inverse problems. http://arxiv.org/abs/1807.03712
+Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). <b>Concrete Problems in AI Safety</b>. [<a href="http://arxiv.org/abs/1606.06565">Link</a>]
 </p>
