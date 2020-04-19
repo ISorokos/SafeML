@@ -31,3 +31,6 @@ The following figure illustrates the flowchart of the proposed approach. In this
 <p align="justify">
 Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). <b>Concrete Problems in AI Safety</b>. [<a href="http://arxiv.org/abs/1606.06565">Link</a>]
 </p>
+
+## Acknowledgments
+<p align="justify">We  would  like  to  thank  EDFEnergy R&D UK Centre and AURA Innovation Centre fortheir support.</p>
