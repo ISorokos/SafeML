@@ -1,5 +1,5 @@
 ## Wednesday Attack
-<p align="justify">This attack has been acoured on Wednesday, July 5, 2017, and different types of attacks have been recorded such as DoS / DDoS, DoS slowloris (9:47 – 10:10 a.m.), DoS Slowhttptest (10:14 – 10:35 a.m.), DoS Hulk (10:43 – 11 a.m.), and DoS GoldenEye (11:10 – 11:23 a.m.). </p>
+<p align="justify">This attack has been occurred on Wednesday, July 5, 2017, and different types of attacks have been recorded such as DoS / DDoS, DoS slowloris (9:47 – 10:10 a.m.), DoS Slowhttptest (10:14 – 10:35 a.m.), DoS Hulk (10:43 – 11 a.m.), and DoS GoldenEye (11:10 – 11:23 a.m.). </p>
 
 <p align="center">
  <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W01.png" alt="Wednessday_Attack">
@@ -14,4 +14,11 @@
 <p align="center">
  <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W03.png" alt="Wednessday_Attack">
  <figcaption>Figure 3. Box plot of statistical distance measures vs. accuracy over 100 iteration</figcaption>
+</p>
+
+## Thursday Attack
+<p align="justify">This attack has been occurred on Thursday, July 6, 2017, and various attacks such as Web Attack – Brute Force (9:20 – 10 a.m.), Web Attack – XSS (10:15 – 10:35 a.m.), and Web Attack – Sql Injection (10:40 – 10:42 a.m.) has been recorded.</p>
+<p align="center">
+<img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_Th01.png" alt="Wednessday_Attack">
+ <figcaption>Figure 4.Confusion matrix for Thursday Security Intrusion Detection in CICIDS2017 Dataset</figcaption>
 </p>
