@@ -36,5 +36,8 @@ Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. 
 Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI safety via debate</b>. [<a href = "https://arxiv.org/pdf/1805.00899.pdf">Link</a>]
 </p>
 
+## License
+This framework is available under an MIT License.
+
 ## Acknowledgments
 <p align="justify">We  would  like  to  thank  EDFEnergy R&D UK Centre and AURA Innovation Centre fortheir support.</p>
