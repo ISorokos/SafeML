@@ -27,6 +27,7 @@ The following figure illustrates the flowchart of the proposed approach. In this
 * More datasets will be tested. Please stay tuned.
 
 ## Publication
+Our first publication will be available soon.
 
 ## References
 <p align="justify">
