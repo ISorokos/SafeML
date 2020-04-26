@@ -26,3 +26,10 @@ Simple example for Anderson-Darling distance measure function in MATLAB:
 <pre>X = normrnd(1,1,[100,1]);
 Y = normrnd(1,1.1,[100,1]);
 AD_Dist = Anderson_Darling_Dist(X,Y)</pre>
+
+## Kolmogorov Smirnov Distance
+Simple example for Kolmogorov Smirnov distance measure function in MATLAB:
+
+<pre>X = normrnd(1,1,[100,1]);
+Y = normrnd(1,1.1,[100,1]);
+AD_Dist = Kolmogorov_Smirnov_Dist(X,Y)</pre>
