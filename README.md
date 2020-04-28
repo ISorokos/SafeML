@@ -42,4 +42,4 @@ Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI Safety via Debate</b>. [<
 This framework is available under an MIT License.
 
 ## Acknowledgments
-<p align="justify">We  would  like  to  thank  EDFEnergy R&D UK Centre and AURA Innovation Centre fortheir support.</p>
+<p align="justify">We  would  like  to  thank  EDFEnergy R&D UK Centre, AURA Innovation Centre and University of Hull for their support.</p>
