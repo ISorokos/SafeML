@@ -1,5 +1,5 @@
 # Statistical/Probabilistic Distance Measure
-<p align = "justify">Statistical/Probabilistic distance measure algorithms can be categorized into two main category I) Cumulative Distribution Function (CDF)-based and Probability Density Function (PDF)-based. The following algorithms have been used in this project.</p>
+<p align = "justify">Statistical/Probabilistic distance measure algorithms can be categorized into two main categories I) Cumulative Distribution Function (CDF)-based and Probability Density Function (PDF)-based. The following algorithms have been used in this project.</p>
 
 <p align="center">
  <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Figures/CDF_Distance_Measures.png" alt="CDF_Distance_Measures">
