@@ -26,7 +26,7 @@ The following figure illustrates the flowchart of the proposed approach. In this
 * More datasets will be tested. Please stay tuned.
 
 ## Contributors
-* <a href = "https://github.com/ISorokos">Ioannis Sorokos</a>
+* <a href = "https://github.com/ISorokos">Ioannis Sorokos (Fraunhofer Institute for Experimental Software Engineering)</a>
 * <a href = "https://github.com/koo-ec">Koorosh Aslansefat (University of Hull)</a>
 * Ramin Tavakoli Kolagari (Technische Hochschule Nürnberg) 
 
