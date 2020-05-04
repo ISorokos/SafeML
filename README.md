@@ -25,9 +25,12 @@ The following figure illustrates the flowchart of the proposed approach. In this
 * MLBENCH Datasets: In <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R">R implementation</a>, A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench/versions/2.1-1">MLBENCH library</a> of R such as <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_XOR_Dataset">XOR</a>, <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Spiral_Dataset">Spiral</a>, <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Circle_Dataset">Circle</a>, and <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Smiley_Dataset">Smiley</a> have been used.
 * More datasets will be tested. Please stay tuned.
 
+## Contributors
+* <a href = "https://github.com/ISorokos">Ioannis Sorokos</a>
+* <a href = "https://github.com/koo-ec">Koorosh Aslansefat</a>
+
 ## Publication
 Our publication will be available soon.
-
 
 ## Related Works
 <p align="justify">
