@@ -27,7 +27,8 @@ The following figure illustrates the flowchart of the proposed approach. In this
 
 ## Contributors
 * <a href = "https://github.com/ISorokos">Ioannis Sorokos</a>
-* <a href = "https://github.com/koo-ec">Koorosh Aslansefat</a>
+* <a href = "https://github.com/koo-ec">Koorosh Aslansefat (University of Hull)</a>
+* Ramin Tavakoli Kolagari (Technische Hochschule Nürnberg) 
 
 ## Publication
 Our publication will be available soon.
