@@ -1,6 +1,5 @@
 function KS_Dist = Kolmogorov_Smirnov_Dist(XX,YY)
-% XX = normrnd(1,1,[100,1]);
-% YY = normrnd(1,1.1,[100,1]);
+
     YY(~any(~isnan(YY), 2),:)=[];
     XX(~any(~isnan(XX), 2),:)=[];
     for jj = 1:size(XX,2)
