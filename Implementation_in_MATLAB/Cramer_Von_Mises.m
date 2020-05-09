@@ -1,6 +1,5 @@
 function CVM_Dist = Cramer_Von_Mises(XX,YY)
-% X = normrnd(1,1,[100,1]);
-% Y = normrnd(1,1.1,[100,1]);
+
     YY(~any(~isnan(YY), 2),:)=[];
     XX(~any(~isnan(XX), 2),:)=[];
     for jj = 1:size(XX,2)
