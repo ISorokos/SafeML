@@ -29,6 +29,7 @@ The following figure illustrates the flowchart of the proposed approach. In this
 * <a href = "https://github.com/ISorokos">Ioannis Sorokos (Fraunhofer Institute for Experimental Software Engineering)</a>
 * <a href = "https://github.com/koo-ec">Koorosh Aslansefat (University of Hull)</a>
 * Ramin Tavakoli Kolagari (Technische Hochschule Nürnberg) 
+* Declan Whiting (University of Hull)
 
 ## Publication
 Our publication will be available soon.
