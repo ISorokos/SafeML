@@ -48,6 +48,8 @@ Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI Safety via Debate</b>. [<
 <p align="justify">
 Schulam, P., & Saria, S. (2019). <b>Can You Trust This Prediction? Auditing Pointwise Reliability After Learning</b>. [<a href = "http://arxiv.org/abs/1901.00403">Link</a>]
 </p>
+<p align="justify">
+Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models</b>. In International Conference on Computer Safety, Reliability, and Security (pp. 358-364). Springer. [<a href = "https://doi.org/10.1007/978-3-030-26250-1_29">Link</a>]
 
 ## License
 This framework is available under an MIT License.
