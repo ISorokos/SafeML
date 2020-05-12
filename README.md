@@ -19,6 +19,10 @@ The following figure illustrates the flowchart of the proposed approach. In this
  <figcaption>Figure 1. Flowchart of the proposed approach</figcaption>
 </p>
 
+## From SafeML Toward Explainable AI (XAI)
+<p align="justify">
+The proposed method is not only suitable for safety evaluation of machine learning classifiers but also can be used @Run-Time as an eXplainable AI (XAI). In one of our <a href = "https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/Explainable_AI">examples for security dataset</a>, we showed how SafeML can be used as XAI.</p>
+
 ## Case Studies
 
 * Security Dataset: In <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>, A Intrusion Detection Evaluation Dataset (<a href="https://www.unb.ca/cic/datasets/ids-2017.html">CICIDS2017</a>) has been used. 
