@@ -33,7 +33,7 @@ The proposed method is not only suitable for safety evaluation of machine learni
 * <a href = "https://github.com/ISorokos">Ioannis Sorokos (Fraunhofer Institute for Experimental Software Engineering)</a>
 * <a href = "https://github.com/koo-ec">Koorosh Aslansefat (University of Hull)</a>
 * Ramin Tavakoli Kolagari (Technische Hochschule Nürnberg) 
-* Declan Whiting (University of Hull & APD Communications)
+* <a href = "https://github.com/declan-whiting">Declan Whiting (University of Hull & APD Communications)</a>
 
 ## Publication
 Our publication will be available soon.
