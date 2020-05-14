@@ -7,12 +7,12 @@
 </p>
 <p align="justify">Figure 2 shows a sample result of six statistical measures (one pdf-based and five cdf-based) vs. accuracy of the classifier. In this example, traditional classifiers including 'Naive Bayes','Discriminant Analysis','Classification Tree', and 'Nearest Neighbor' have been used. </p>
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W02.png" alt="Wednessday_Attack">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W02v2.png" alt="Wednessday_Attack">
  <figcaption>Figure 2. Sample statistical distance measures vs. accuracy</figcaption>
 </p>
 <p align="justify">The above figure has been generated over 100 times, and each time 70% of data has been randomly extracted for testing and training and the rest has been used for accuracy estimation. If we connect red lines of each box plot we can understand how each measure can react to the accuracy change on average. In addition, this plot can show which method has less variation.</p>
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W03.png" alt="Wednessday_Attack">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W03v2.png" alt="Wednessday_Attack">
  <figcaption>Figure 3. Box plot of statistical distance measures vs. accuracy over 100 iterations</figcaption>
 </p>
 
@@ -24,11 +24,11 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W02.png" alt="Wednessday_Attack">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_Th02v2.png" alt="Wednessday_Attack">
  <figcaption>Figure 5. Sample statistical distance measures vs. accuracy for Thursday Security Intrusion Detection in CICIDS2017 Dataset</figcaption>
 </p>
 
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W03.png" alt="Wednessday_Attack">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_Th03v2.png" alt="Wednessday_Attack">
  <figcaption>Figure 6. Box plot of statistical distance measures vs. accuracy over 100 iterations for Thursday Security Intrusion Detection in CICIDS2017 Dataset</figcaption>
 </p>
