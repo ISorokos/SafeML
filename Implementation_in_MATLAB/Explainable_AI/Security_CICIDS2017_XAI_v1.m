@@ -140,10 +140,3 @@ set(S,'color','w');
 xvalues = {'ClassNum','KSD','KD','ADD','WD','WAD'};
 yvalues = {'ClassNum','KSD','KD','ADD','WD','WAD'};
 heatmap(xvalues,yvalues,pval)
-
-
-%% Just a Test
-aa = [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3];
-bb = [10, 10, 10, 10, 10, 20, 20, 20, 20, 20, 30, 30, 30, 30, 30];
-
-[rho,pval] = corr(aa', bb') 
