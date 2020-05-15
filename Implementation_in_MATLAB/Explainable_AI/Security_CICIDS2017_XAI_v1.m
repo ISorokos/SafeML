@@ -117,6 +117,7 @@ ylabel('WAD')
 LB2 = LBs(1:size(W_D,2));
 LB2 = LB2';
 
+%% Merge All Vector to one Matrix
 Data = [LB2;
         KS_D;
         K_D;
@@ -126,8 +127,10 @@ Data = [LB2;
     
 format long
 
+% Calculate Pearson's Correlation and P-Values
 [rho,pval] = corr(Data');   
 
+% Heatmap Plot of Correlation Values
 S = figure(2);
 set(S,'color','w');
 xvalues = {'ClassNum','KSD','KD','ADD','WD','WAD'};
@@ -135,6 +138,7 @@ yvalues = {'ClassNum','KSD','KD','ADD','WD','WAD'};
 heatmap(xvalues,yvalues,rho)
 colormap jet
 
+% Heatmap Plot of p-Values
 S = figure(3);
 set(S,'color','w');
 xvalues = {'ClassNum','KSD','KD','ADD','WD','WAD'};
