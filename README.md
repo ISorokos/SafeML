@@ -40,10 +40,10 @@ Our publication will be available soon.
 
 ## Related Works
 <p align="justify">
-* Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). <b>Concrete Problems in AI Safety</b>. [<a href="http://arxiv.org/abs/1606.06565">Link</a>]
+Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). <b>Concrete Problems in AI Safety</b>. [<a href="http://arxiv.org/abs/1606.06565">Link</a>]
 </p> 
 <p align="justify">
-* Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI Safety via Debate</b>. [<a href = "https://arxiv.org/pdf/1805.00899.pdf">Link</a>]
+Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI Safety via Debate</b>. [<a href = "https://arxiv.org/pdf/1805.00899.pdf">Link</a>]
 </p>
 <p align="justify">
 Schulam, P., & Saria, S. (2019). <b>Can You Trust This Prediction? Auditing Pointwise Reliability After Learning</b>. [<a href = "http://arxiv.org/abs/1901.00403">Link</a>]
