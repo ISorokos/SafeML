@@ -50,6 +50,9 @@ Schulam, P., & Saria, S. (2019). <b>Can You Trust This Prediction? Auditing Poin
 </p>
 <p align="justify">
 Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models</b>. [<a href = "https://doi.org/10.1007/978-3-030-26250-1_29">Link</a>]
+ 
+## Related Projects
+* <a href = "https://github.com/koo-ec/SafeNN">SafeNN Project</a>This porject rely on the idea of SafeML and aimed to evaluate safety of Deep Neural Networks using statistical distance measures.
 
 ## License
 This framework is available under an MIT License.
