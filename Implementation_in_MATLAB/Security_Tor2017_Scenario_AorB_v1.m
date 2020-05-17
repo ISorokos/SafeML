@@ -3,8 +3,6 @@ clearvars
 close all
 clc
 
-mkdir('C:\Users\Koo\Desktop\R Project\Ioannis Security SafeML\MachineLearningCVE')
-addpath(genpath('C:\Users\Koo\Desktop\R Project\Ioannis Security SafeML\MachineLearningCVE'))
 %% Parameters
 
 % Reduced Dimension After Using PCA
@@ -22,7 +20,7 @@ ClassifierNum = 3;
 % The Dataset can be downloaded from: https://www.unb.ca/cic/datasets/tor.html
 % Dataset Zip file should be extracted and then its CSV files should be
 % moved to the same folder of the code
-FileNames = {'C:\Users\Koo\Desktop\R Project\Ioannis Security SafeML\TorCSV\Scenario-A\merged_5s.csv','C:\Users\Koo\Desktop\R Project\Ioannis Security SafeML\TorCSV\Scenario-B\merged_5s.csv'};
+FileNames = {'..\Scenario-A\merged_5s.csv','..\Scenario-B\merged_5s.csv'};
 
 opts = delimitedTextImportOptions("NumVariables", 29);
 
