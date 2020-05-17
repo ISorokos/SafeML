@@ -26,9 +26,11 @@ The proposed method is not only suitable for safety evaluation of machine learni
 ## Case Studies
 
 * Security Datasets
-1: A Intrusion Detection Evaluation Dataset (<a href="https://www.unb.ca/cic/datasets/ids-2017.html">CICIDS2017</a>) [In <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>] 
-2: Tor-nonTor Dataset (ISCXTor2016) (<a href="https://www.unb.ca/cic/datasets/tor.html">ISCXTor2016</a>) [In <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].
-* MLBENCH Datasets: In <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R">R implementation</a>, A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench/versions/2.1-1">MLBENCH library</a> of R such as <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_XOR_Dataset">XOR</a>, <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Spiral_Dataset">Spiral</a>, <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Circle_Dataset">Circle</a>, and <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Smiley_Dataset">Smiley</a> have been used.
+<p align="justify">
+1: A Intrusion Detection Evaluation Dataset (<a href="https://www.unb.ca/cic/datasets/ids-2017.html">CICIDS2017</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].</p>
+<p align="justify">
+2: Tor-nonTor Dataset (ISCXTor2016) (<a href="https://www.unb.ca/cic/datasets/tor.html">ISCXTor2016</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].</p>
+* MLBENCH Datasets: A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench/versions/2.1-1">MLBENCH library</a> of R such as <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_XOR_Dataset">XOR</a>, <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Spiral_Dataset">Spiral</a>, <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Circle_Dataset">Circle</a>, and <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R/Examples/2D_Smiley_Dataset">Smiley</a> [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_R">R implementation</a>].
 * More datasets will be tested. Please stay tuned.
 
 ## Contributors
