@@ -135,6 +135,7 @@ function Plots_Acc_Dist2(Results, FigNum)
 
     S = figure(FigNum);
     set(S,'color','w');
+    set(S, 'Units', 'Normalized', 'OuterPosition', [0 0 1 1]);
     subplot(231)
     for ii = 1:size(Results,2)-1
         subplot(2,3,ii)
@@ -157,6 +158,7 @@ function BoxPlot_Acc_Dist(SResults, FigNum, ClassNum)
 
     S = figure(FigNum);
     set(S,'color','w');
+    set(S, 'Units', 'Normalized', 'OuterPosition', [0 0 1 1]);
     subplot(231)
     for ii = 1:6
         subplot(2,3,ii)
