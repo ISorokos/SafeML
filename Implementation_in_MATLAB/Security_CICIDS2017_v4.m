@@ -171,6 +171,7 @@ function BoxPlot_Acc_Dist(SResults, FigNum, ClassNum)
         title(Methods{ii})
         xlabel('\fontsize{16}Mean Accuracy (100 Permutation)')
         ylabel('\fontsize{16}Distance')
+        xtickangle(45)
     end
 end
 
