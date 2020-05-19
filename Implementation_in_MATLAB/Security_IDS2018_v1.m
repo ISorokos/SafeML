@@ -18,7 +18,7 @@ PermNum = 1;
 % 2: LDA
 % 3: Classification Tree
 % 4: KNN
-ClassifierNum = 3;
+ClassifierNum = 1;
 
 %% Read CSV Files
 % The Dataset can be downloaded from: https://www.unb.ca/cic/datasets/ids-2018.html
@@ -27,7 +27,7 @@ ClassifierNum = 3;
 opts = delimitedTextImportOptions("NumVariables", 85);
 
 % Specify range and delimiter
-opts.DataLines = [2, 2000];
+opts.DataLines = [2, 7e6];
 opts.Delimiter = ",";
 
 % Specify column names and types
@@ -49,7 +49,7 @@ Selected_Data = readtable(DataSetFilePath, opts);
 % Clear temporary variables
 clear opts
 %% D-reduction using PCA
-[coeff, score] = pca(Selected_Data{:,9:end-1});
+[coeff, score] = pca(Selected_Data{:,20:end-1});
 T_RD = score(:,1:Reduced_Dim);
 Selected_Data_RD = cat(2,table(T_RD),table(Selected_Data{:,end}));
 %% Main Loop
@@ -187,7 +187,7 @@ function [x, g] = Reshape_for_BoxPlot(SResults, DNum, ClassNum)
         x(:,ii) = reshape(SResults(ii,DNum,:),[size(SResults, 3),1]); 
 
         g1 = repmat({['Mu =', num2str(mean(reshape(SResults(1,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
-      %  g2 = repmat({['Mu =', num2str(mean(reshape(SResults(2,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
+        g2 = repmat({['Mu =', num2str(mean(reshape(SResults(2,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
     
         %g3 = repmat({['Mu =', num2str(mean(reshape(SResults(3,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
         %g4 = repmat({['Mu =', num2str(mean(reshape(SResults(4,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
@@ -196,7 +196,7 @@ function [x, g] = Reshape_for_BoxPlot(SResults, DNum, ClassNum)
         %g7 = repmat({['Mu =', num2str(mean(reshape(SResults(7,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
         %g8 = repmat({['Mu =', num2str(mean(reshape(SResults(8,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
     
-        g = g1;% [g1; g2];%; g3; g4; g5; g6; g7; g8];
+        g = [g1; g2];%; g3; g4; g5; g6; g7; g8];
     end
     
 end
