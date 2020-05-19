@@ -35,7 +35,7 @@ Y = normrnd(1,1.1,[100,1]);
 AD_Dist = Kolmogorov_Smirnov_Dist(X,Y)</pre>
 
 # MATLAB Toolbox Requirement
-    {'MATLAB Base'                            }
+    {'MATLAB'                                 }
     {'System Identification Toolbox'          }
     {'Statistics and Machine Learning Toolbox'}
     {'Bioinformatics Toolbox'                 }
