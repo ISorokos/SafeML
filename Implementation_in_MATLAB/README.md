@@ -33,3 +33,9 @@ Simple example for Kolmogorov Smirnov distance measure function in MATLAB:
 <pre>X = normrnd(1,1,[100,1]);
 Y = normrnd(1,1.1,[100,1]);
 AD_Dist = Kolmogorov_Smirnov_Dist(X,Y)</pre>
+
+# MATLAB Toolbox Requirement
+    {'MATLAB'                                 }
+    {'System Identification Toolbox'          }
+    {'Statistics and Machine Learning Toolbox'}
+    {'Bioinformatics Toolbox'                 }
