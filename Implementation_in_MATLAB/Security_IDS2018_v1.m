@@ -3,6 +3,10 @@ clearvars
 close all
 clc
 
+DataSetFilePath = "final_dataset.csv";
+
+disp('Initial Section Complete')
+
 %% Parameters
 
 % Reduced Dimension After Using PCA
@@ -40,7 +44,7 @@ opts = setvaropts(opts, "Timestamp", "InputFormat", "dd/MM/yyyy hh:mm:ss aa");
 opts = setvaropts(opts, ["VarName1", "SrcPort", "DstPort", "Protocol", "FlowDuration", "TotFwdPkts", "TotBwdPkts", "TotLenFwdPkts", "TotLenBwdPkts", "FwdPktLenMax", "FwdPktLenMin", "FwdPktLenMean", "FwdPktLenStd", "BwdPktLenMax", "BwdPktLenMin", "BwdPktLenMean", "BwdPktLenStd", "FlowBytss", "FlowPktss", "FlowIATMean", "FlowIATStd", "FlowIATMax", "FlowIATMin", "FwdIATTot", "FwdIATMean", "FwdIATStd", "FwdIATMax", "FwdIATMin", "BwdIATTot", "BwdIATMean", "BwdIATStd", "BwdIATMax", "BwdIATMin", "FwdPSHFlags", "BwdPSHFlags", "FwdURGFlags", "BwdURGFlags", "FwdHeaderLen", "BwdHeaderLen", "FwdPktss", "BwdPktss", "PktLenMin", "PktLenMax", "PktLenMean", "PktLenStd", "PktLenVar", "FINFlagCnt", "SYNFlagCnt", "RSTFlagCnt", "PSHFlagCnt", "ACKFlagCnt", "URGFlagCnt", "CWEFlagCount", "ECEFlagCnt", "DownUpRatio", "PktSizeAvg", "FwdSegSizeAvg", "BwdSegSizeAvg", "FwdBytsbAvg", "FwdPktsbAvg", "FwdBlkRateAvg", "BwdBytsbAvg", "BwdPktsbAvg", "BwdBlkRateAvg", "SubflowFwdPkts", "SubflowFwdByts", "SubflowBwdPkts", "SubflowBwdByts", "InitFwdWinByts", "InitBwdWinByts", "FwdActDataPkts", "FwdSegSizeMin", "ActiveMean", "ActiveStd", "ActiveMax", "ActiveMin", "IdleMean", "IdleStd", "IdleMax", "IdleMin"], "FillValue", 0);
 
 % Import the data
-Selected_Data = readtable("C:\Users\Koo\Downloads\ddos_balanced\final_dataset.csv", opts);
+Selected_Data = readtable(DataSetFilePath, opts);
 
 % Clear temporary variables
 clear opts
