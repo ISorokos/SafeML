@@ -183,7 +183,7 @@ function [x, g] = Reshape_for_BoxPlot(SResults, DNum, ClassNum)
         x(:,ii) = reshape(SResults(ii,DNum,:),[size(SResults, 3),1]); 
 
         g1 = repmat({['Mu =', num2str(mean(reshape(SResults(1,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
-      %  g2 = repmat({['Mu =', num2str(mean(reshape(SResults(2,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
+        g2 = repmat({['Mu =', num2str(mean(reshape(SResults(2,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
     
         %g3 = repmat({['Mu =', num2str(mean(reshape(SResults(3,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
         %g4 = repmat({['Mu =', num2str(mean(reshape(SResults(4,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
@@ -192,7 +192,7 @@ function [x, g] = Reshape_for_BoxPlot(SResults, DNum, ClassNum)
         %g7 = repmat({['Mu =', num2str(mean(reshape(SResults(7,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
         %g8 = repmat({['Mu =', num2str(mean(reshape(SResults(8,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
     
-        g = g1;% [g1; g2];%; g3; g4; g5; g6; g7; g8];
+        g = [g1; g2];%; g3; g4; g5; g6; g7; g8];
     end
     
 end
