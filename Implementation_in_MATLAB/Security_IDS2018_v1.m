@@ -104,7 +104,7 @@ for kk = 1:PermNum
 
             Results(jj, 6, kk) = Wasserstein_Dist(XTrain_L,XTest_L);
 
-            Results(jj, 7, kk) = Wasserstein_Anderson_Darling_Dist(XTrain_L,XTest_L,2);
+            Results(jj, 7, kk) = Wasserstein_Anderson_Darling_Dist(XTrain_L,XTest_L);
                
         end
         Plots_Acc_Dist2(Results(:,:,kk), ii);
