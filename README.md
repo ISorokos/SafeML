@@ -33,6 +33,8 @@ Tor-nonTor Dataset (<a href="https://www.unb.ca/cic/datasets/tor.html">ISCXTor20
 </p>
 <p align="justify">
 DDoS Attach Dataset (<a href="https://www.unb.ca/cic/datasets/ids-2018.html">CSE-CIC-IDS2018</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].</p>
+<p align="justify">
+NSL version of KDD Security Dataset  (<a href="https://www.unb.ca/cic/datasets/ids-2018.html">NSL-KDD</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].</p>
 
 <li>MLBENCH Datasets</li>
 
