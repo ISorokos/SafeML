@@ -142,9 +142,9 @@ function Plots_Acc_Dist2(Results, FigNum)
     S = figure(FigNum);
     set(S,'color','w');
     set(S, 'Units', 'Normalized', 'OuterPosition', [0 0 1 1]);
-    subplot(231)
+    subplot(321)
     for ii = 1:size(Results,2)-1
-        subplot(2,3,ii)
+        subplot(3,2,ii)
         plot(SResults(:,1), SResults(:,ii+1), '-')
         title(Methods{ii})
         xlabel('\fontsize{16}Accuracy')
@@ -165,9 +165,9 @@ function BoxPlot_Acc_Dist(SResults, FigNum, ClassNum)
     S = figure(FigNum);
     set(S,'color','w');
     set(S, 'Units', 'Normalized', 'OuterPosition', [0 0 1 1]);
-    subplot(231)
+    subplot(321)
     for ii = 1:6
-        subplot(2,3,ii)
+        subplot(3,2,ii)
         [x, g] = Reshape_for_BoxPlot(SResults, ii+1, ClassNum);
         boxplot(x,g)
         title(Methods{ii})
