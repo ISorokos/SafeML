@@ -189,14 +189,7 @@ function [x, g] = Reshape_for_BoxPlot(SResults, DNum, ClassNum)
     for ii = 1:ClassNum
         x(:,ii) = reshape(SResults(ii,DNum,:),[size(SResults, 3),1]); 
 
-        g1 = repmat({['Mu =', num2str(mean(reshape(SResults(1,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
-        g2 = repmat({['Mu =', num2str(mean(reshape(SResults(2,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
-    
-        g3 = repmat({['Mu =', num2str(mean(reshape(SResults(3,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
-         g4 = repmat({['Mu =', num2str(mean(reshape(SResults(4,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
-%         g5 = repmat({['Mu =', num2str(mean(reshape(SResults(5,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1);
-    
-        g = [g1; g2; g3; g4]%; g5];
+        g = cat(1,g,repmat({['Mu =', num2str(mean(reshape(SResults(ii,1,:),[size(SResults, 3),1])))]},size(SResults, 3),1));
     end
     
 end
