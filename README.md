@@ -53,7 +53,8 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 * <a href = "https://github.com/declan-whiting">Declan Whiting (University of Hull & APD Communications)</a>
 
 ## Publication
-Our publication will be available soon.
+<p align="justify">
+Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos, I.(2020) <b>SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure<b>
 
 ## Related Works
 <p align="justify">
