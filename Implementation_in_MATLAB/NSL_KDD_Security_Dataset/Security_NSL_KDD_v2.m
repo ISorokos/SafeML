@@ -39,7 +39,7 @@ opts = setvaropts(opts, ["tcp", "ftp_data", "SF", "normal"], "EmptyFieldRule", "
 opts = setvaropts(opts, ["VarName1", "VarName5", "VarName6", "VarName7", "VarName8", "VarName9", "VarName10", "VarName11", "VarName12", "VarName13", "VarName14", "VarName15", "VarName16", "VarName17", "VarName18", "VarName19", "VarName20", "VarName21", "VarName22", "VarName23", "VarName24", "VarName25", "VarName26", "VarName27", "VarName28", "VarName29", "VarName30", "VarName31", "VarName32", "VarName33", "VarName34", "VarName35", "VarName36", "VarName37", "VarName38", "VarName39", "VarName40", "VarName41", "VarName43"], "FillValue", 0);
 
 % Import the data
-KDDTrain = readtable("C:\Users\Koo\Desktop\R Project\Ioannis Security SafeML\NSL-KDD\KDDTrain+.txt", opts);
+KDDTrain = readtable("KDDTrain+.txt", opts);
 
 clear opts
 
@@ -62,7 +62,7 @@ opts = setvaropts(opts, ["tcp", "ftp_data", "SF", "normal"], "EmptyFieldRule", "
 opts = setvaropts(opts, ["VarName1", "VarName5", "VarName6", "VarName7", "VarName8", "VarName9", "VarName10", "VarName11", "VarName12", "VarName13", "VarName14", "VarName15", "VarName16", "VarName17", "VarName18", "VarName19", "VarName20", "VarName21", "VarName22", "VarName23", "VarName24", "VarName25", "VarName26", "VarName27", "VarName28", "VarName29", "VarName30", "VarName31", "VarName32", "VarName33", "VarName34", "VarName35", "VarName36", "VarName37", "VarName38", "VarName39", "VarName40", "VarName41", "VarName43"], "FillValue", 0);
 
 % Import the data
-KDDTest = readtable("C:\Users\Koo\Desktop\R Project\Ioannis Security SafeML\NSL-KDD\KDDTest+.txt", opts);
+KDDTest = readtable("KDDTest+.txt", opts);
 
 Selected_Data = cat(1, KDDTrain, KDDTest);
 
