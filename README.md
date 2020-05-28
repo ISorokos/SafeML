@@ -36,7 +36,7 @@ DDoS Attach Dataset (<a href="https://www.unb.ca/cic/datasets/ids-2018.html">CSE
 <p align="justify">
 NSL version of KDD Security Dataset  (<a href="https://www.unb.ca/cic/datasets/nsl.html">NSL-KDD</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/NSL_KDD_Security_Dataset">MATLAB implementation</a>].</p>
 <p align="justify">
-DDoS Evaluation Dataset (<a href="https://www.unb.ca/cic/datasets/ddos-2019.html">CICDDoS2019</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/CICDDoS2019_Security_Dataset</a>].</p>
+DDoS Evaluation Dataset (<a href="https://www.unb.ca/cic/datasets/ddos-2019.html">CICDDoS2019</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/CICDDoS2019_Security_Dataset">MATLAB implementation</a>].</p>
  
 <li><b>MLBENCH Datasets</b></li>
 
