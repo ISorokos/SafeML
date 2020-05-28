@@ -64,7 +64,7 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 
 ## Publication
 <p align="justify">
-Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos, Y. (2020) <b>SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure<b>.
+Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos, Y. (2020) <b>SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure<b>.[<a href="https://arxiv.org/abs/2005.13166">Link</a>][<a href="https://www.researchgate.net/publication/341699548_SafeML_Safety_Monitoring_of_Machine_Learning_Classifiers_through_Statistical_Difference_Measure/stats">ResearchGate</a>]
 
 ## Related Works
 <p align="justify">
