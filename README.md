@@ -6,7 +6,7 @@
  <img src="https://github.com/ISorokos/SafeML/blob/master/SafeML_Logo.png" alt="SafeML_Logo"> </p>
   
 # SafeML
-Exploring techniques for estimating safety of machine learning classifiers.
+Exploring techniques for safety monitoring of machine learning classifiers.
 ## Abstract
 <p align="justify">Nowadays the application of advanced machine learning or deep learning in various industries is growing rapidly. In parallel with this massive growth, the concern about the safety and explainability of these algorithms is also high. This project is proposing a solution, by performing a safety verification using statistical difference measure algorithms (considering positive and negative deviation). The proposed framework can act as a safety wrapper for different machine learning classification algorithms. A number of hypothetical and real examples are provided to clarify the limitations and capabilities of the proposed method.</p>
 
