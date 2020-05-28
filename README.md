@@ -37,6 +37,15 @@ DDoS Attach Dataset (<a href="https://www.unb.ca/cic/datasets/ids-2018.html">CSE
 NSL version of KDD Security Dataset  (<a href="https://www.unb.ca/cic/datasets/nsl.html">NSL-KDD</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/NSL_KDD_Security_Dataset">MATLAB implementation</a>].</p>
 <p align="justify">
 DDoS Evaluation Dataset (<a href="https://www.unb.ca/cic/datasets/ddos-2019.html">CICDDoS2019</a>) [<a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/CICDDoS2019_Security_Dataset">MATLAB implementation</a>].</p>
+<p align="justify">
+CIC DoS Dataset (<a href="https://www.unb.ca/cic/datasets/dos-dataset.html">CICDoS2017</a>) [Will be available in <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].
+</p> 
+<p align="justify">
+VPN-nonVPN Dataset (<a href="https://www.unb.ca/cic/datasets/vpn.html">ISCXVPN2016</a>) [Will be available in <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].
+</p> 
+<p align="justify">
+Botnet Dataset (<a href="https://www.unb.ca/cic/datasets/botnet.html">BotNet2014</a>) [Will be available in <a href="https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB">MATLAB implementation</a>].
+</p> 
  
 <li><b>MLBENCH Datasets</b></li>
 
