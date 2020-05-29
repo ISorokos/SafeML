@@ -91,6 +91,7 @@ Schulam, P., & Saria, S. (2019). <b>Can You Trust This Prediction? Auditing Poin
 </p>
 <p align="justify">
 Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models</b>. [<a href = "https://doi.org/10.1007/978-3-030-26250-1_29">Link</a>]
+ </p>
  
 ## Related Projects
 <p align="justify">
@@ -99,6 +100,8 @@ Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models<
 <a href = "https://github.com/dependable-ai/nn-dependability-kit">NN-Dependability-KIT Project: </a>Toolbox for software dependability engineering of artificial neural networks.</p>
 <p align="justify">
 <a href = "https://github.com/cfinlay/confident-nn">Confident-NN Project: </a>Toolbox for empirical confidence estimation in neural networks-based classification.</p>
+<p align="justify">
+<a href = "https://eth-sri.github.io/research/safeai">SafeAI Project: </a>Different toolboxes like <a href = "https://github.com/eth-sri/diffai">DiffAI<a>, <a href = "https://github.com/eth-sri/dl2">DL2<a> and <a href = "https://github.com/eth-sri/eran"> from SRILab ETH Zürich focusing on robust, safe and interpretable AI</p> 
 
 ## License
 This framework is available under an MIT License.
