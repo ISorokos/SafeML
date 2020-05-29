@@ -97,6 +97,8 @@ Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models<
 <a href = "https://github.com/koo-ec/SafeNN">SafeNN Project: </a>This porject relies on the idea of SafeML and aimed to evaluate safety of Deep Neural Networks using statistical distance measures.</p>
 <p align="justify">
 <a href = "https://github.com/dependable-ai/nn-dependability-kit">NN-Dependability-KIT Project: </a>Toolbox for software dependability engineering of artificial neural networks.</p>
+<p align="justify">
+<a href = "https://github.com/cfinlay/confident-nn">Confident-NN Project: </a>Toolbox for empirical confidence estimation in neural networks-based classification.</p>
 
 ## License
 This framework is available under an MIT License.
