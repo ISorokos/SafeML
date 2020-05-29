@@ -69,13 +69,13 @@ Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos,
 ## Cite as
 <pre>
 @article{Aslansefat2020SafeML,
-       author  = {{Aslansefat}, Koorosh and {Sorokos}, Ioannis and {Whiting}, Declan and
-                 {Tavakoli Kolagari}, Ramin and {Papadopoulos}, Yiannis},
-       title   = "{SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure}",
-       journal = {arXiv e-prints},
-       year    = {2020},
-       url     = {https://arxiv.org/abs/2005.13166},
-     eprint    = {2005.13166},
+   author  = {{Aslansefat}, Koorosh and {Sorokos}, Ioannis and {Whiting}, Declan and
+              {Tavakoli Kolagari}, Ramin and {Papadopoulos}, Yiannis},
+   title   = "{SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure}",
+   journal = {arXiv e-prints},
+   year    = {2020},
+   url     = {https://arxiv.org/abs/2005.13166},
+   eprint  = {2005.13166},
 }
 </pre>
 
