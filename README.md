@@ -101,7 +101,7 @@ Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models<
 <p align="justify">
 <a href = "https://github.com/cfinlay/confident-nn">Confident-NN Project: </a>Toolbox for empirical confidence estimation in neural networks-based classification.</p>
 <p align="justify">
-<a href = "https://eth-sri.github.io/research/safeai">SafeAI Project: </a>Different toolboxes like <a href = "https://github.com/eth-sri/diffai">DiffAI<a>, <a href = "https://github.com/eth-sri/dl2">DL2<a> and <a href = "https://github.com/eth-sri/eran"> from SRILab ETH Zürich focusing on robust, safe and interpretable AI</p> 
+<a href = "https://eth-sri.github.io/research/safeai">SafeAI Project: </a>Different toolboxes like <a href = "https://github.com/eth-sri/diffai">DiffAI<a>, <a href = "https://github.com/eth-sri/dl2">DL2<a> and <a href = "https://github.com/eth-sri/eran">ERAN</a> from SRILab ETH Zürich focusing on robust, safe and interpretable AI</p> 
 
 ## License
 This framework is available under an MIT License.
