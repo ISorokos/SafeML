@@ -65,7 +65,7 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 
 ## Publication
 <p align="justify">
-Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos, Y. (2020) <b>SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure<b>. [<a href="https://arxiv.org/abs/2005.13166">Link</a>][<a href="https://www.researchgate.net/publication/341699548_SafeML_Safety_Monitoring_of_Machine_Learning_Classifiers_through_Statistical_Difference_Measure/stats">ResearchGate</a>]
+Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos, Y. (2020) <b>SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure<b>. [<a href="https://arxiv.org/abs/2005.13166">arXiv</a>][<a href="https://www.researchgate.net/publication/341699548_SafeML_Safety_Monitoring_of_Machine_Learning_Classifiers_through_Statistical_Difference_Measure/stats">ResearchGate</a>][<a href = "https://deepai.org/publication/safeml-safety-monitoring-of-machine-learning-classifiers-through-statistical-difference-measure">DeepAI</a>]
  
 ## Cite as
 <pre>
@@ -82,16 +82,16 @@ Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos,
 
 ## Related Works
 <p align="justify">
-Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). <b>Concrete Problems in AI Safety</b>. [<a href="http://arxiv.org/abs/1606.06565">Link</a>]
+Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mané, D. (2016). <b>Concrete Problems in AI Safety</b>. [<a href="http://arxiv.org/abs/1606.06565">arXiv</a>]
 </p> 
 <p align="justify">
-Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI Safety via Debate</b>. [<a href = "https://arxiv.org/pdf/1805.00899.pdf">Link</a>]
+Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI Safety via Debate</b>. [<a href = "https://arxiv.org/pdf/1805.00899.pdf">arXiv</a>]
 </p>
 <p align="justify">
-Schulam, P., & Saria, S. (2019). <b>Can You Trust This Prediction? Auditing Pointwise Reliability After Learning</b>. [<a href = "http://arxiv.org/abs/1901.00403">Link</a>]
+Schulam, P., & Saria, S. (2019). <b>Can You Trust This Prediction? Auditing Pointwise Reliability After Learning</b>. [<a href = "http://arxiv.org/abs/1901.00403">arXiv</a>]
 </p>
 <p align="justify">
-Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models</b>. [<a href = "https://doi.org/10.1007/978-3-030-26250-1_29">Link</a>]
+Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models</b>. [<a href = "https://doi.org/10.1007/978-3-030-26250-1_29">arXiv</a>]
  </p>
  
 ## Related Projects
