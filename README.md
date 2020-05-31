@@ -91,8 +91,11 @@ Irving, G., Christiano, P., & Amodei, D. (2018). <b>AI Safety via Debate</b>. [<
 Schulam, P., & Saria, S. (2019). <b>Can You Trust This Prediction? Auditing Pointwise Reliability After Learning</b>. [<a href = "http://arxiv.org/abs/1901.00403">arXiv</a>]
 </p>
 <p align="justify">
-Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models</b>. [<a href = "https://doi.org/10.1007/978-3-030-26250-1_29">arXiv</a>]
+Kläs, M., & Sembach, L. (2019). <b>Uncertainty Wrappers for Data-driven Models</b>. [<a href = "https://doi.org/10.1007/978-3-030-26250-1_29">Springer</a>]
  </p>
+<p align="justify">
+Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev, M. (2018). <b>AI2: Safety and robustness certification of neural networks with abstract interpretation</b>. In IEEE Symposium on Security and Privacy (SP). [<a href = "https://doi.org/10.1109/SP.2018.00058">IEEE</a>]
+</p> 
  
 ## Related Projects
 <p align="justify">
