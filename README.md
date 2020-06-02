@@ -59,10 +59,10 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 </ul>
 
 ## Contributors
-* <a href = "https://github.com/ISorokos">Ioannis Sorokos (Fraunhofer Institute for Experimental Software Engineering)</a><a href = "mailto:ioannis.sorokos@iese.fraunhofer.de">ioannis.sorokos@iese.fraunhofer.de</a>
-* <a href = "https://github.com/koo-ec">Koorosh Aslansefat (University of Hull)</a><a href = "mailto:k.aslansefat-2018@hull.ac.uk">k.aslansefat-2018@hull.ac.uk</a>
-* Ramin Tavakoli Kolagari (Technische Hochschule Nürnberg) 
-* <a href = "https://github.com/declan-whiting">Declan Whiting (University of Hull & APD Communications)</a>
+* <a href = "https://github.com/ISorokos">Ioannis Sorokos (Fraunhofer Institute for Experimental Software Engineering)</a> - <a href = "mailto:ioannis.sorokos@iese.fraunhofer.de">ioannis.sorokos@iese.fraunhofer.de</a>
+* <a href = "https://github.com/koo-ec">Koorosh Aslansefat (University of Hull)</a> - <a href = "mailto:k.aslansefat-2018@hull.ac.uk">k.aslansefat-2018@hull.ac.uk</a>
+* Ramin Tavakoli Kolagari (Technische Hochschule Nürnberg) - <a href = "mailto:ramin.tavakolikolagari@th-nuernberg.de">ramin.tavakolikolagari@th-nuernberg.de</a>
+* <a href = "https://github.com/declan-whiting">Declan Whiting (University of Hull & APD Communications)</a> - <a href = "mailto:d.Whiting-2018@hull.ac.uk">d.Whiting-2018@hull.ac.uk</a>
 
 ## Publication
 <p align="justify">
