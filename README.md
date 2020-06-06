@@ -20,6 +20,24 @@ The following figure illustrates the flowchart of the proposed approach. In this
  <figcaption>Figure 1. Flowchart of the proposed approach</figcaption>
 </p>
 
+The SafeML idea can be used for different applications. Three aplication of the SafeML project have been illustrated as follows:
+
+<p align="center">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/Security_Example_v3.png" alt="Application_of_SafeML_for_Security">
+ <figcaption>Figure 2. Application of the SafeML for Security Intrusion Detection</figcaption>
+</p>
+
+<p align="center">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Medical_Example_v2.png" alt="Application_of_SafeML_in_medical">
+ <figcaption>Figure 3. Application of the SafeML in ML/DL based Disease Detection or Diagnosis</figcaption>
+</p>
+
+<p align="center">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Autonomous_Vehicle_Example_v1.png" alt="Application_of_SafeML_for_Autonomous_Vehicle_or_Self-driving_cars">
+ <figcaption>Figure 4. Application of the SafeML for Traffic Sign Detection in Autonomous Vehicles/Self-driving Cars</figcaption>
+</p>
+
+
 ## From SafeML Toward Explainable AI (XAI)
 <p align="justify">
 The proposed method is not only suitable for safety evaluation of machine learning classifiers but also can be used @Run-Time as an eXplainable AI (XAI). In one of our <a href = "https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/Explainable_AI">examples for security dataset</a>, we showed how SafeML can be used as XAI.</p>
