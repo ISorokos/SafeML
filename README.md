@@ -28,7 +28,7 @@ The SafeML idea can be used for different applications. Three aplication of the 
 </p>
 
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Medical_Example_v2.png" alt="Application_of_SafeML_in_medical">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Medical_Example_v1.png" alt="Application_of_SafeML_in_medical">
  <figcaption>Figure 3. Application of the SafeML in ML/DL based Disease Detection or Diagnosis</figcaption>
 </p>
 
