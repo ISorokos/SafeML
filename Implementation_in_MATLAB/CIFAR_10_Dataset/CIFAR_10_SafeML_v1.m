@@ -147,19 +147,9 @@ Test_Data_RD = score(:,1:Reduced_Dim);
 % Test_Data_RD = YYY_Test(:,1:2);
 
 clear data labels
-%%
-figure(70)
-gscatter(Train_Data_RD(:,1), Train_Data_RD(:,2), TTrain,'rgbmkcrgbmkc','ooooo^^^^^');
-xlabel('PCA1');
-ylabel('PCA2');
-
-figure(71)
-gscatter(Test_Data_RD(:,1), Test_Data_RD(:,2), TTest,'rgbmkcrgbmkc','ooooo^^^^^');
-xlabel('PCA1');
-ylabel('PCA2');
 
 %% Run the network on the test set
-PermNum = 10;
+PermNum = 100;
 
 for kk = 1:PermNum
     
