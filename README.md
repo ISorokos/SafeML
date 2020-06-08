@@ -88,7 +88,7 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 
 ## Publication
 <p align="justify">
-Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos, Y. (2020) <b>SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure<b>. [<a href="https://arxiv.org/abs/2005.13166v1">arXiv</a>][<a href="https://www.researchgate.net/publication/341699548_SafeML_Safety_Monitoring_of_Machine_Learning_Classifiers_through_Statistical_Difference_Measure/stats">ResearchGate</a>][<a href = "https://deepai.org/publication/safeml-safety-monitoring-of-machine-learning-classifiers-through-statistical-difference-measure">DeepAI</a>]
+Aslansefat, K. Sorokos, I., Whiting, D., Tavakoli Kolagari, R. and Papadopoulos, Y. (2020) <b>SafeML: Safety Monitoring of Machine Learning Classifiers through Statistical Difference Measure<b>. [<a href = "https://github.com/ISorokos/SafeML/blob/master/Documents/SafeML%20Safety%20Monitoring%20of%20Machine%20Learning%20Classifiers%20through%20Statistical%20Difference%20Measure.pdf">PDF</a>][<a href="https://arxiv.org/abs/2005.13166v1">arXiv</a>][<a href="https://www.researchgate.net/publication/341699548_SafeML_Safety_Monitoring_of_Machine_Learning_Classifiers_through_Statistical_Difference_Measure/stats">ResearchGate</a>][<a href = "https://deepai.org/publication/safeml-safety-monitoring-of-machine-learning-classifiers-through-statistical-difference-measure">DeepAI</a>]
 </p> 
  
 ## Medium Posts
