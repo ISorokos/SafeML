@@ -135,6 +135,8 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
 <a href = "https://github.com/cfinlay/confident-nn">Confident-NN Project: </a>Toolbox for empirical confidence estimation in neural networks-based classification.</p>
 <p align="justify">
 <a href = "https://eth-sri.github.io/research/safeai">SafeAI Project: </a>Different toolboxes like <a href = "https://github.com/eth-sri/diffai">DiffAI<a>, <a href = "https://github.com/eth-sri/dl2">DL2<a> and <a href = "https://github.com/eth-sri/eran">ERAN</a> from SRILab ETH Zürich focusing on robust, safe and interpretable AI.</p> 
+<p align="justify">
+<a href = "https://openai.com/blog/debate/">AI Safety via Debate:</a> This project aims to evaluate the AI Safety through <a href = "https://github.com/openai/pixel">Debate Games</a>.
 
 ## License
 This framework is available under an MIT License.
