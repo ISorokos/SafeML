@@ -135,7 +135,7 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
  
 ## Related Projects
 <p align="justify">
-<a href = "https://github.com/koo-ec/SafeNN">SafeNN Project: </a>This porject relies on the idea of SafeML and aimed to evaluate safety of Deep Neural Networks using statistical distance measures.</p>
+<a href = "https://github.com/koo-ec/SafeNN">SafeNN Project: </a>This porject relies on the idea of SafeML and aimed to evaluate safety of Deep Neural Networks using statistical distance measures (will be public soon).</p>
 <p align="justify">
 <a href = "https://github.com/dependable-ai/nn-dependability-kit">NN-Dependability-KIT Project: </a>Toolbox for software dependability engineering of artificial neural networks.</p>
 <p align="justify">
