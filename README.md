@@ -1,7 +1,8 @@
 <p align="left"> </p>
 
  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a> [![View SafeML: Safety Monitoring of Machine Learning Classifiers on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/76793-safeml-safety-monitoring-of-machine-learning-classifiers)
+  <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a> [![View SafeML: Safety Monitoring of Machine Learning Classifiers on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/76793-safeml-safety-monitoring-of-machine-learning-classifiers) [![Documentation Status](https://readthedocs.org/projects/safeml/badge/?version=latest)](https://safeml.readthedocs.io/en/latest/?badge=latest)
+ 
 <p align="center">
  <img src="https://github.com/ISorokos/SafeML/blob/master/SafeML_Logo.png" alt="SafeML_Logo"> </p>
   
