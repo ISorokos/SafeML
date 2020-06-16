@@ -1,5 +1,8 @@
-# Getting Started with SafeML
+Getting Started with SafeML
+===========================
 
-# Quick Start Video
+Quick Start Video
+-----------------
 
-# Quick Start
+Quick Start
+-----------
