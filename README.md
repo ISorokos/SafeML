@@ -4,7 +4,7 @@
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a> [![View SafeML: Safety Monitoring of Machine Learning Classifiers on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/76793-safeml-safety-monitoring-of-machine-learning-classifiers) [![Documentation Status](https://readthedocs.org/projects/safeml/badge/?version=latest)](https://safeml.readthedocs.io/en/latest/?badge=latest)
  
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/SafeML_Logo.png" alt="SafeML_Logo"> </p>
+ <img src="https://github.com/ISorokos/SafeML/blob/master/SafeML_Logo.png" alt="SafeML, SafeAI, AIsafety, AI safety, SafeDL, machine learning safety"> </p>
   
 # SafeML
 Exploring techniques for safety monitoring of machine learning classifiers.
@@ -33,19 +33,19 @@ The SafeML idea can be used for different applications. Three aplication of the 
 
 ## SafeML in Security
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/Security_Example_v3.png" alt="Application_of_SafeML_for_Security">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/Security_Example_v3.png" alt="Application of SafeML for Security, SafeML, SafeAI, AIsafety, AI safety, SafeDL, machine learning safety">
  <figcaption>Figure 2. Application of the SafeML for Security Intrusion Detection</figcaption>
 </p>
 
 ## SafeML for Medical Applications
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Medical_Example_v1.png" alt="Application_of_SafeML_in_medical">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Medical_Example_v1.png" alt="Application of SafeML in medical,SafeML, SafeAI, AIsafety, AI safety, SafeDL, machine learning safety">
  <figcaption>Figure 3. Application of the SafeML in ML/DL based Disease Detection or Diagnosis</figcaption>
 </p>
 
 ## SafeML for Autonomous Vehicles and Self-Driving Cars
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Autonomous_Vehicle_Example_v1.png" alt="Application_of_SafeML_for_Autonomous_Vehicle_or_Self-driving_cars">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Autonomous_Vehicle_Example_v1.png" alt="Application_of_SafeML_for_Autonomous_Vehicle_or_Self-driving_cars, SafeML, SafeAI, AIsafety, AI safety, SafeDL, machine learning safety">
  <figcaption>Figure 4. Application of the SafeML for Traffic Sign Detection in Autonomous Vehicles/Self-driving Cars</figcaption>
 </p>
 
