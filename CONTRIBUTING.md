@@ -43,4 +43,4 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Reference
-This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at <a href = "https://www.contributor-covenant.org/version/1/4/code-of-conduct/">https://www.contributor-covenant.org/version/1/4/code-of-conduct</a>
+This Code of Conduct is adapted from the <a href "https://www.contributor-covenant.org/">Contributor Covenant</a>, version 1.4, available at <a href = "https://www.contributor-covenant.org/version/1/4/code-of-conduct/">https://www.contributor-covenant.org/version/1/4/code-of-conduct</a>
