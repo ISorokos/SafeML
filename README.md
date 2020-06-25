@@ -49,6 +49,11 @@ The SafeML idea can be used for different applications. Three aplication of the 
  <figcaption>Figure 4. Application of the SafeML for Traffic Sign Detection in Autonomous Vehicles/Self-driving Cars</figcaption>
 </p>
 
+## SafeML for Autonomous Railway Systems
+<p align="center">
+ <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Railway_Example_v2.png" alt="Application of SafeML for Autonomous Railway Systems, Intelligent Railway, SafeML, SafeAI, AIsafety, AI safety, SafeDL, machine learning safety">
+ <figcaption>Figure 5. Application of the SafeML for Obstacle Detection in Autonomous Railway Systems</figcaption>
+</p>
 
 ## From SafeML Toward Explainable AI (XAI)
 <p align="justify">
