@@ -59,7 +59,9 @@ The SafeML idea can be used for different applications. Three aplication of the 
 <p align="justify">
 The proposed method is not only suitable for safety evaluation of machine learning classifiers but also can be used @Run-Time as an eXplainable AI (XAI). In one of our <a href = "https://github.com/ISorokos/SafeML/tree/master/Implementation_in_MATLAB/Explainable_AI">examples for security dataset</a>, we showed how SafeML can be used as XAI.</p>
 <p align="justify">
-Similar to the idea of <a href = "https://github.com/slundberg/shap">SHAP XAI Python Package</a>, the SafeML idea can be used for <a href "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence">AI explainability and interpretability</a>. The following figure shows the idea using SafeML as the XAI tool: 
+Similar to the idea of <a href = "https://github.com/slundberg/shap">SHAP XAI Python Package</a>, the SafeML idea can be used for <a href "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence">AI explainability and interpretability</a>. The following figure shows the idea using SafeML as the XAI tool:
+</p> 
+<p align="justify">
 <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_XAI.png" alt="SafeML as XAI, AI explainability, AI interpretability, explanable AI, SafeAI, AIsafety, AI safety, SafeDL, machine learning safety">
 <figcaption>Figure 6. Application of the SafeML in AI explainability and interpretability</figcaption> 
 </p> 
