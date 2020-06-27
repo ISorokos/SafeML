@@ -159,7 +159,8 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
 <a href = "https://openai.com/blog/debate/">AI Safety via Debate:</a> This project aims to evaluate the AI Safety through <a href = "https://github.com/openai/pixel">Debate Games</a>.
  
 ## Future Extensions
-Currently SafeML has designed for Deep Learning (DL) or Machine Learning (ML) Classifiers and we are trying to extend the approach for regression and clustring tasks. We are also trying to improve SafeML for classification in time series.
+<p align="justify">
+Currently SafeML has designed for Deep Learning (DL) and Machine Learning (ML) Classifiers. We are trying to extend the approach for regression and clustring tasks. We are also trying to improve SafeML for classification tasks in time series.</p>
 
 ## License
 This framework is available under an MIT License.
