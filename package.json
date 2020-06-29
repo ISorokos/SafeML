@@ -1,0 +1,23 @@
+{
+  "name": "@ISorokos/SafeML/",
+  "version": "1.0.0",
+  "description": "This is a package to test the GitHub package Registry",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node_modules/.bin/tsc"
+  },
+  "author": "Koorosh Aslansefat",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "url": "https://github.com/ISorokos/SafeML.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.11",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
+}
