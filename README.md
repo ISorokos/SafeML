@@ -166,4 +166,4 @@ Currently SafeML has designed for Deep Learning (DL) and Machine Learning (ML) C
 This framework is available under an MIT License.
 
 ## Acknowledgments
-<p align="justify">We  would  like  to  thank  EDFEnergy R&D UK Centre, AURA Innovation Centre and University of Hull for their support.</p>
+<p align="justify">We  would  like  to  thank  EDF Energy R&D UK Centre, AURA Innovation Centre and University of Hull for their support.</p>
