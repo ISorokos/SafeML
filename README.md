@@ -28,6 +28,8 @@ The following figure illustrates the flowchart of the proposed approach. In this
  <figcaption>Figure 1. Flowchart of the proposed approach</figcaption>
 </p>
 
+-------------------
+
 # SafeML Applications
 The SafeML idea can be used for different applications. Three aplication of the SafeML project have been illustrated as follows:
 
@@ -54,6 +56,8 @@ The SafeML idea can be used for different applications. Three aplication of the 
  <img src="https://github.com/ISorokos/SafeML/blob/master/Pictures/SafeML_Railway_Example_v3.png" alt="Application of SafeML for Autonomous Railway Systems, Intelligent Railway, SafeML, SafeAI, AIsafety, AI safety, SafeDL, machine learning safety">
  <figcaption>Figure 5. Application of the SafeML for Obstacle Detection in Autonomous Railway Systems</figcaption>
 </p>
+
+-------------------
 
 ## From SafeML Toward Explainable AI (XAI)
 <p align="justify">
