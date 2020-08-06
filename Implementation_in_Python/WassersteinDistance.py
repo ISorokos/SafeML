@@ -1,4 +1,4 @@
-def Wasserstein_Dist(XX, YY)
+def Wasserstein_Dist(XX, YY):
   
     import numpy as np
     nx = len(XX)
