@@ -1,4 +1,4 @@
-def Kolmogorov_Smirnov_Dist(XX, YY)
+def Kolmogorov_Smirnov_Dist(XX, YY):
   
     import numpy as np
     nx = len(XX)
