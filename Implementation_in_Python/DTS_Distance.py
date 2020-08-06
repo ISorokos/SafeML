@@ -1,5 +1,5 @@
 # DTS Distance (Combination of AD and CVM Distances)
-def DTS_Dist(XX, YY)
+def DTS_Dist(XX, YY):
   
     import numpy as np
     nx = len(XX)
