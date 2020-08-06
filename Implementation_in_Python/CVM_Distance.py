@@ -1,5 +1,5 @@
 # Cramer-Von Mises Distance
-def CVM_Dist(XX, YY)
+def CVM_Dist(XX, YY):
   
     import numpy as np
     nx = len(XX)
