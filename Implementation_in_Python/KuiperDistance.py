@@ -1,4 +1,4 @@
-def Kuiper_Dist(XX, YY)
+def Kuiper_Dist(XX, YY):
   
     import numpy as np
     nx = len(XX)
