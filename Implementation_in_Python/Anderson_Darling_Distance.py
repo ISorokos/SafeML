@@ -1,4 +1,4 @@
-def Anderson_Darling_Dist(XX, YY)
+def Anderson_Darling_Dist(XX, YY):
   
     import numpy as np
     nx = len(XX)
