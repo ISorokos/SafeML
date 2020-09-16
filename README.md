@@ -164,7 +164,7 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
 <p align="justify">
 <a href = "https://openai.com/blog/debate/">AI Safety via Debate:</a> This project aims to evaluate the AI Safety through <a href = "https://github.com/openai/pixel">Debate Games</a>.</p> 
 <p align="justify">
-<a href ="https://github.com/safednn-nasa">SafeDNN:</a>A research project from NASA that focses on the Property Inference from Deep Neural Networks.</p>
+<a href ="https://github.com/safednn-nasa">SafeDNN:</a> A research project from NASA that focses on the property inference from Deep Neural Networks (DNNs).</p>
 
 ## Future Extensions
 <p align="justify">
