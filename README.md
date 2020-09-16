@@ -162,8 +162,10 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
 <p align="justify">
 <a href = "https://eth-sri.github.io/research/safeai">SafeAI Project: </a>Different toolboxes like <a href = "https://github.com/eth-sri/diffai">DiffAI<a>, <a href = "https://github.com/eth-sri/dl2">DL2<a> and <a href = "https://github.com/eth-sri/eran">ERAN</a> from SRILab ETH Zürich focusing on robust, safe and interpretable AI.</p> 
 <p align="justify">
-<a href = "https://openai.com/blog/debate/">AI Safety via Debate:</a> This project aims to evaluate the AI Safety through <a href = "https://github.com/openai/pixel">Debate Games</a>.
- 
+<a href = "https://openai.com/blog/debate/">AI Safety via Debate:</a> This project aims to evaluate the AI Safety through <a href = "https://github.com/openai/pixel">Debate Games</a>.</p> 
+<p align="justify">
+<a href ="https://github.com/safednn-nasa">SafeDNN:</a>A research project from NASA that focses on the Property Inference from Deep Neural Networks.</p>
+
 ## Future Extensions
 <p align="justify">
 Currently SafeML has designed for Deep Learning (DL) and Machine Learning (ML) Classifiers. We are trying to extend the approach for regression and clustring tasks. We are also trying to improve SafeML for classification tasks in time series.</p>
