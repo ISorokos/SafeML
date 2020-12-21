@@ -122,6 +122,11 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 <p align="justify">
 <a href = "https://towardsdatascience.com/tagged/Safeml%20Project">How to Make Your Classifier Safe</a>, (2020, June) Published in Medium (Towards Data Science). 
 </p> 
+
+## Talks
+<p align="justify">
+SafeML - A Human-in-the-loop Approach for Safety Monitoring of Machine Learning Classifiers (2020, November), in <a href = "https://openethics.ai/events/">Open Ethics Series S01E06 Human-in-the-loop AI Аgency & oversight.</a>
+</p> 
  
 ## Cite as
 <pre>
