@@ -125,7 +125,7 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 
 ## Talks
 <p align="justify">
-SafeML - A Human-in-the-loop Approach for Safety Monitoring of Machine Learning Classifiers (2020, November), in <a href = "https://openethics.ai/events/">Open Ethics Series S01E06 Human-in-the-loop AI Аgency & oversight.</a>
+SafeML - A Human-in-the-loop Approach for Safety Monitoring of Machine Learning Classifiers (2020, November), in <a href = "https://openethics.ai/events/">Open Ethics Series S01E06 Human-in-the-loop AI Аgency & oversight.</a> [Will be available on <a href = "https://www.youtube.com/channel/UCLl2T4H6S42EFswmZANs1Dw">YouTube</a> soon]
 </p> 
  
 ## Cite as
