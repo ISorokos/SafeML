@@ -173,9 +173,10 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
 <a href ="https://github.com/safednn-nasa">SafeDNN:</a> A research project from NASA that focses on the property inference from Deep Neural Networks (DNNs).</p>
  
 ## FAQs
-<b>Q1:</b> How to do you define the buffer size?
-
-<b>A1:</b> The "buffer-size" in SafeML algorithm should be defined by an expert in the design time. It should be long enough to hold statistical characteristics of the incoming data. 
+<p align="justify">
+<b>Q1:</b> How to do you define the buffer size?</p>
+<p align="justify">
+<b>A1:</b> The "buffer-size" in SafeML algorithm should be defined by an expert in the design time. It should be long enough to hold statistical characteristics of the incoming data.</p> 
 
 ## Future Extensions
 <p align="justify">
