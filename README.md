@@ -174,7 +174,7 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
  
 ## FAQs
 <p align="justify">
-<b>Q1:</b> How to do you define the buffer size?</p>
+<b>Q1:</b> How can we define the right buffer size?</p>
 <p align="justify">
 <b>A1:</b> The "buffer-size" in SafeML algorithm should be defined by an expert in the design time. It should be long enough to hold statistical characteristics of the incoming data.</p> 
 
