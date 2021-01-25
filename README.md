@@ -177,6 +177,10 @@ Gehr, T., Mirman, M., Drachsler-Cohen, D., Tsankov, P., Chaudhuri, S., & Vechev,
 <b>Q1:</b> How can we define the right buffer size?</p>
 <p align="justify">
 <b>A1:</b> The "buffer-size" in SafeML algorithm should be defined by an expert in the design time. It should be long enough to hold statistical characteristics of the incoming data.</p> 
+<p align="justify">
+<b>Q2:</b> How to define the right expected confidence threshold?</p>
+<p align="justify">
+<b>A2:</b> It is also another hyper-parameter that should be defined in the offline phase of the SafeML and after training the classifier.</p> 
 
 ## Future Extensions
 <p align="justify">
