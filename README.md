@@ -120,7 +120,7 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
  
 ## Medium Posts
 <p align="justify">
-<a href = "https://towardsdatascience.com/tagged/Safeml%20Project">How to Make Your Classifier Safe</a>, (2020, June) Published in Medium (Towards Data Science). 
+<a href = "https://towardsdatascience.com/tagged/Safeml%20Project">How to Make Your Classifier Safe</a>, (2020, June) Published in Medium (Towards Data Science). [<a href = "https://www.kaggle.com/kooaslansefat/concept-drift-adversarial-validation-safeml">Kaggle Version</a>]
 </p> 
 
 ## Talks
