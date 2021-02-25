@@ -35,7 +35,7 @@ def DTS_Dist(XX, YY):
 
     DTS_D = Res
     
-return DTS_D
+    return DTS_D
 
 if __name__ == '__main__':
 
