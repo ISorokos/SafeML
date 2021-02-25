@@ -28,7 +28,7 @@ def Wasserstein_Dist(XX, YY):
 
     WS_Dist = Res
     
-return WS_Dist
+    return WS_Dist
 
 if __name__ == '__main__':
 
