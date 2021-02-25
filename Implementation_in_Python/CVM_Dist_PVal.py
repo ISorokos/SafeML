@@ -27,6 +27,8 @@ def CVM_Dist(XX, YY):
        if XY_Sorted[ii+1] != XY_Sorted[ii]: Res = Res + height**power
 
     CVM_Dist = Res
+    
+    return CVM_Dist
 
 def  CVM_Dist_PVal(XX, YY):
     # Information about Bootstrap Method: 

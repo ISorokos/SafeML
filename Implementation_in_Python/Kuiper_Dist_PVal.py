@@ -30,7 +30,7 @@ def Kuiper_Dist(XX, YY):
 
    K_Dist = abs(down)**power + abs(up)**power
     
-return K_Dist
+   return K_Dist
 
 def  Kuiper_Dist_PVal(XX, YY):
     # Information about Bootstrap Method: 
