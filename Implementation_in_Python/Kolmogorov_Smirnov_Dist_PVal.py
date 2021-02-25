@@ -25,9 +25,10 @@ def Kolmogorov_Smirnov_Dist(XX, YY):
         if XY_Sorted[ii+1] != XY_Sorted[ii]: height = abs(F_CDF-E_CDF)
         if height > Res: Res = height
 
-KS_Dist = Res**power
+    KS_Dist = Res**power
     
-return KS_Dist
+    return KS_Dist
+  
 def  Kolmogorov_Smirnov_Dist_PVal(XX, YY):
     # Information about Bootstrap Method: 
     # https://towardsdatascience.com/an-introduction-to-the-bootstrap-method-58bcb51b4d60
