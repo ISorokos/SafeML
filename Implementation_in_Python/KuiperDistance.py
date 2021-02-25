@@ -28,9 +28,9 @@ def Kuiper_Dist(XX, YY):
         if height > up: up = height
         if height < up: down = height
 
-   K_Dist = abs(down)**power + abs(up)**power
+    K_Dist = abs(down)**power + abs(up)**power
     
-   return K_Dist
+    return K_Dist
 
 if __name__ == '__main__':
 
