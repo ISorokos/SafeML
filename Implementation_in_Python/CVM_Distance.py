@@ -28,7 +28,7 @@ def CVM_Dist(XX, YY):
 
     CVM_Dist = Res
     
-return CVM_Dist
+    return CVM_Dist
 
 if __name__ == '__main__':
 
