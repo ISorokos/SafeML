@@ -14,7 +14,7 @@ def Kuiper_Dist(XX, YY):
     X2_Sorted = X2[S_Ind]
     Y2_Sorted = Y2[S_Ind]
 
-    uo = 0
+    up = 0
     down = 0
     Res = 0
     E_CDF = 0
