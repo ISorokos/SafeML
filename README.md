@@ -128,6 +128,8 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 <p align="justify">
 SafeML - A Human-in-the-loop Approach for Safety Monitoring of Machine Learning Classifiers (2020, November), in <a href = "https://openethics.ai/events/">Open Ethics Series S01E06 Human-in-the-loop AI Аgency & oversight.</a> [<a href = "https://www.youtube.com/watch?v=m4szeYSIuRc">YouTube</a>]
 </p> 
+<p align="justify">
+Trustworthy and Explainable Machine Learning with SafeML (2021, February), in <a href = "https://www.deeplearning.ai">DeepLearning.ai - Pai and AI Series</a> [<a href = "https://github.com/ISorokos/SafeML/blob/master/Documents/SafeML_Pie_and_AI.pptx">Presentation File</a>]
  
 ## Cite as
 <pre>
