@@ -15,6 +15,7 @@ def Kolmogorov_Smirnov_Dist(XX, YY):
     Y2_Sorted = Y2[S_Ind]
 
     Res = 0;
+    height = 0;
     E_CDF = 0;
     F_CDF = 0;
     power = 1;
