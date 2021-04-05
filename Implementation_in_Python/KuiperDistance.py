@@ -19,6 +19,7 @@ def Kuiper_Dist(XX, YY):
     Res = 0
     E_CDF = 0
     F_CDF = 0
+    height = 0
     power = 1
 
     for ii in range(0, n-2):
