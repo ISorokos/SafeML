@@ -10,7 +10,7 @@
  <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W02v2.png" alt="Wednessday_Attack">
  <figcaption>Figure 2. Sample statistical distance measures vs. accuracy</figcaption>
 </p>
-<p align="justify">The above figure has been generated over 100 times, and each time 70% of data has been randomly extracted for testing and training and the rest has been used for accuracy estimation. If we connect red lines of each box plot we can understand how each measure can react to the accuracy change on average. In addition, this plot can show which method has less variation.</p>
+<p align="justify">The data for the above figure was captured over 100 experiment iterations. Each time 70% of data has been randomly extracted for testing and training and the rest has been used for accuracy estimation. If we connect red lines of each box plot we can understand how each measure can react to the accuracy change on average. In addition, this plot can show which method has less variation.</p>
 <p align="center">
  <img src="https://github.com/ISorokos/SafeML/blob/master/Implementation_in_MATLAB/Sample_Results_Security_Example/Security_Dataset_W03v2.png" alt="Wednessday_Attack">
  <figcaption>Figure 3. Box plot of statistical distance measures vs. accuracy over 100 iterations</figcaption>
