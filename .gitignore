@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# User defined for SafeML project
+.DS_Store
+*.csv
+
 # Distribution / packaging
 .Python
 build/
