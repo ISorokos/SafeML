@@ -1,0 +1,34 @@
+- SafeML Open Questions
+	1. Why are ECDFs effective ?
+	2. When are they not ?
+		a. Can we check when they are not ?
+		b. Can we have an uncertainty estimate ?
+	3. Thresholds
+		a. How much distance is too much ? Can it be systematically identified for a given application ?
+		b. How much data is needed for the sampling process ? Can it be systematically... ?
+	4. Are there other distance measures / approaches to be included ?
+		a. Kernel Mean Embedding ?
+		
+- Harith
+	- Not sure about 1, 2, 4
+	- #3
+		- During training, bootstrap the distance and sample thresholds by starting at a small value for each and incrementing until stable
+		- Verify thresholds by using them during operation, need to compare versus ground truth
+			-> CARLA simulation can be used to obtain ground truth
+
+Timeline
+Target:
+Identify distance and sampling thresholds using ground-truth validation from CARLA simulation
+1. Setup CARLA -> 1/2 week
+	-> Jan Reich, Marc Wellstein
+2. Setup simple ML prediction within CARLA -> 1/2 week
+	-> e.g. vehicle speed prediction
+3. Setup SafeML -> < 1/2 week
+4. Plan+setup experiment -> 1 week
+5. Discuss results and revise -> 1 week
+Total ~ 1 month
+ETA Start of August
+
+- Ioannis: collect background material on CARLA and contacts and provide to Harith
+- Ioannis: discussions w/ ATMP partners -> determine what ML applications they have and how we could use SafeML there
+	-> update plan accordingly if needed
