@@ -27,7 +27,7 @@ def Kuiper_Dist(XX, YY):
         F_CDF = F_CDF + Y2_Sorted[ii]
         if XY_Sorted[ii+1] != XY_Sorted[ii]: height = F_CDF-E_CDF
         if height > up: up = height
-        if height < up: down = height
+        if height < down: down = height
 
    K_Dist = abs(down)**power + abs(up)**power
     
