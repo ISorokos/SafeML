@@ -122,7 +122,7 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 [<a href = "https://github.com/ISorokos/SafeML/blob/master/Documents/SafeML_IMBSA2020_Presentation.pdf">Presentation at the 7th International Symposium on Model-Based Safety and Assessment (IMBSA2020)</a>].
 </p> 
 <p align="justify">
-<a href = "https://scholar.google.com/citations?user=YBa4Tl8AAAAJ&hl=en">Aslansefat, K.</a>, <a href = "">Kabir, S.</a>, Abdullatif, A., Vasudevan, V. and <a href = "https://scholar.google.com/citations?user=GpwIX-QAAAAJ&hl=en">Papadopoulos, Y.</a> (2020) <b>Toward Improving Confidence in Autonomous Vehicle Software: A Study on Traffic Sign Recognition Systems</b>.[<a href = "https://github.com/ISorokos/SafeML/blob/master/Documents/Toward%20Improving%20Confidence%20in%20Autonomous%20Vehicle%20Software%20A%20Study%20on%20Traffic%20Sign%20Recognition%20Systems.pdf">PDF</a>][<a href = "https://doi.org/10.1109/MC.2021.3075054">IEEE</a>]</p> 
+<a href = "https://scholar.google.com/citations?user=YBa4Tl8AAAAJ&hl=en">Aslansefat, K.</a>, <a href = "">Kabir, S.</a>, Abdullatif, A., Vasudevan, V. and <a href = "https://scholar.google.com/citations?user=GpwIX-QAAAAJ&hl=en">Papadopoulos, Y.</a> (2021) <b>Toward Improving Confidence in Autonomous Vehicle Software: A Study on Traffic Sign Recognition Systems</b>.[<a href = "https://github.com/ISorokos/SafeML/blob/master/Documents/Toward%20Improving%20Confidence%20in%20Autonomous%20Vehicle%20Software%20A%20Study%20on%20Traffic%20Sign%20Recognition%20Systems.pdf">PDF</a>][<a href = "https://doi.org/10.1109/MC.2021.3075054">IEEE</a>]</p> 
  
 ## Medium Posts
 <p align="justify">
