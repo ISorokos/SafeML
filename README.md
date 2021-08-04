@@ -121,6 +121,7 @@ A number of datasets in <a href="https://www.rdocumentation.org/packages/mlbench
 <p align="justify"> 
 [<a href = "https://github.com/ISorokos/SafeML/blob/master/Documents/SafeML_IMBSA2020_Presentation.pdf">Presentation at the 7th International Symposium on Model-Based Safety and Assessment (IMBSA2020)</a>].
 </p> 
+<p align="justify"> </p> 
  
 ## Medium Posts
 <p align="justify">
