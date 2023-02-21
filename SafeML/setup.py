@@ -1,8 +1,13 @@
+import setuptools
 from distutils.core import setup
+
+with open("README.md", "r") as readme_file:
+    readme = readme_file.read()
+
 setup(
   name = 'SafeML',         
   packages = ['SafeML'],   
-  version = '0.2',     
+  version = '0.3',     
   license='MIT',       
   description = 'Model-agnostic safety monitoring of machine learning algorithms',
   author = 'Koorosh Aslansefat',               
@@ -10,6 +15,7 @@ setup(
   url = 'https://github.com/ISorokos/SafeML',   
   download_url = 'https://github.com/ISorokos/SafeML/archive/v1.2.tar.gz',   
   keywords = ['aisafety', 'safety', 'trustworthyai'], 
+  setup_requires = ['wheel'],
   install_requires=[            # I get to this in a second
           'numpy',
           'spm1d',
@@ -25,6 +31,7 @@ setup(
     'Programming Language :: Python :: 3.6',
     'Programming Language :: Python :: 3.7',
     'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
     'Programming Language :: Python :: 3.6',
     'Programming Language :: Python :: 3.10',
   ],
