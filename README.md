@@ -199,3 +199,6 @@ This framework is available under an MIT License.
 
 ## Acknowledgments
 <p align="justify">We  would  like  to  thank  <a href = "https://www.edfenergy.com/about">EDF Energy R&D UK Centre</a>, <a href = "https://aura-innovation.co.uk/">AURA Innovation Centre</a> and <a href = "https://www.hull.ac.uk/">University of Hull</a> for their support.</p>
+
+## 🌟 Contributors
+[![SafeML contributors](https://contrib.rocks/image?repo=ISorokos/SafeML&max=2000)](https://github.com/ISorokos/SafeML/graphs/contributors)
