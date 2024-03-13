@@ -1,6 +1,6 @@
 function SI = Separability_Index(Selected_Data,Labels)
     %% Based on Following Paper
-    % https://arxiv.org/ftp/arxiv/papers/2005/2005.13120.pdf
+    % https://arxiv.org/ftp/arxiv/papers/2005/2005.13120.pdf 
     % Data Separability for Neural Network Classifiers and the Development of a Separability Index
 
     LBs = double(unique(Labels));
