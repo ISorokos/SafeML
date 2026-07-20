@@ -1,0 +1,93 @@
+site_name: SafeML Documentation
+site_description: SafeML documentation for runtime safety monitoring of machine learning classifiers using empirical distribution distance measures.
+site_author: SafeML contributors
+site_url: https://safeml.readthedocs.io/en/latest/
+repo_url: https://github.com/ISorokos/SafeML
+repo_name: ISorokos/SafeML
+edit_uri: edit/master/docs/
+copyright: Copyright &copy; SafeML contributors · MIT License
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/safeml-logo.png
+  favicon: assets/images/safeml-logo.png
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: light-blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Get Started:
+      - Overview: getting-started/index.md
+      - Installation: getting-started/installation.md
+      - Quick Start: getting-started/quick-start.md
+  - Guides:
+      - Usage Examples: guides/index.md
+      - Tutorials: guides/tutorials.md
+  - Reference:
+      - API Reference: reference/api.md
+      - FAQ: reference/faq.md
+  - Project:
+      - Citation: project/citation.md
+      - Contributing: project/contributing.md
+      - Explore with AI: project/explore-with-ai.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+exclude_docs: |
+  requirements.txt
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ISorokos/SafeML
+      name: SafeML on GitHub
+
+validation:
+  links:
+    absolute_links: relative_to_docs
+    unrecognized_links: warn

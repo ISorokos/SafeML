@@ -1,0 +1,19 @@
+# SafeML
+
+> SafeML is a research project for runtime safety monitoring of machine learning classifiers using empirical distribution distance measures.
+
+Canonical documentation: https://safeml.readthedocs.io/en/latest/
+Source repository: https://github.com/ISorokos/SafeML
+License: MIT
+
+## Documentation
+
+- [Overview](https://safeml.readthedocs.io/en/latest/getting-started/)
+- [Installation](https://safeml.readthedocs.io/en/latest/getting-started/installation/)
+- [Quick Start](https://safeml.readthedocs.io/en/latest/getting-started/quick-start/)
+- [Usage Examples](https://safeml.readthedocs.io/en/latest/guides/)
+- [API Reference](https://safeml.readthedocs.io/en/latest/reference/api/)
+- [FAQ](https://safeml.readthedocs.io/en/latest/reference/faq/)
+- [Citation](https://safeml.readthedocs.io/en/latest/project/citation/)
+
+SafeML compares statistical characteristics from trusted training data with characteristics computed from incoming operational data. The repository includes Python, MATLAB, and R implementations. It is experimental research software and does not by itself certify a system as safe.

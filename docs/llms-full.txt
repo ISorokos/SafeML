@@ -1,0 +1,22 @@
+# SafeML documentation summary
+
+SafeML investigates runtime monitoring for machine learning classifiers. It compares empirical cumulative distribution functions and related statistical characteristics calculated from trusted training data and incoming operational data. Implemented measures include Kolmogorov-Smirnov, Kuiper, Anderson-Darling, Cramer-von Mises, Wasserstein, and related project measures.
+
+## Workflow
+
+During training, a classifier is trained on trusted labelled data and reference distributions or statistical characteristics are retained for each class. During application, incoming data is buffered, assigned predicted labels, and compared with corresponding trusted references. Application-specific thresholds may guide continued operation, further data collection, human review, or another system response.
+
+## Software
+
+The repository contains an installable Python package and broader Python, MATLAB, and R examples. The Python package exposes functions through individual modules, including Kolmogorov_Smirnov_Dist, Kuiper_Dist, Anderson_Darling_Dist, CVM_Dist, Wasserstein_Dist, DTS_Dist, chernoff_distance, and Wilson_Interval_Confidence.
+
+## Scope and limitations
+
+SafeML is experimental research software. Statistical similarity does not prove correctness or safety. Users must validate the choice of data, preprocessing, measure, buffer size, threshold, and response for the intended system. The current repository focuses primarily on classification.
+
+## Primary resources
+
+- Documentation: https://safeml.readthedocs.io/en/latest/
+- Repository: https://github.com/ISorokos/SafeML
+- Paper: https://arxiv.org/abs/2005.13166
+- DOI: https://doi.org/10.1007/978-3-030-58920-2_13
