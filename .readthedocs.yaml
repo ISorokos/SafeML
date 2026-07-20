@@ -7,10 +7,8 @@ build:
   jobs:
     post_checkout:
       - git fetch --unshallow || true
+    pre_build:
+      - python -m pip install --disable-pip-version-check -r docs/requirements.txt
     build:
       html:
         - python -m mkdocs build -f mkdocs.yml --clean --site-dir $READTHEDOCS_OUTPUT/html
-
-python:
-  install:
-    - requirements: docs/requirements.txt
