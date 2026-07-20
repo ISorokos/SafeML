@@ -52,7 +52,7 @@ nav:
   - Project:
       - Citation: project/citation.md
       - Contributing: project/contributing.md
-      - Explore with AI: project/explore-with-ai.md
+  - Explore with AI: project/explore-with-ai.md
 
 markdown_extensions:
   - admonition
